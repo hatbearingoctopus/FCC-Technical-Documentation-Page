@@ -1,6 +1,6 @@
 # FCC-Technical-Documentation-Page
 
-JavaScript documentation
+JavaScript documentation page
 
 Fourth project for FreeCodeCamps Responsive Web Design certification 
 
